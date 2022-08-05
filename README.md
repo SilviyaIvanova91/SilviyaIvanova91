@@ -8,6 +8,7 @@
 
 ### :woman_technologist: About Me :
 - 🌱 I’m currently learning JavaScript 
+- ⚡ In my free time I like to read (books, magazines and so on...), travel (around Bulgaria and world) and have fun ✨
 
 ---
 
@@ -37,5 +38,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
