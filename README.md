@@ -8,7 +8,7 @@
 
 ### :woman_technologist: About Me :
 - 🌱 I’m currently learning JavaScript 
-- ⚡ In my free time I like to read (books, magazines and so on...), travel (around Bulgaria and world) and have fun ✨
+- ⚡ In my free time I like to read (books, magazines and so on...), travel (around Bulgaria and the world) and have fun ✨
 
 ---
 
