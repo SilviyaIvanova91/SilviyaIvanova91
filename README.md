@@ -2,7 +2,7 @@
 <h1 align="center" >                                                         
    Hi everyone, I'm Silviya 👋  
    </h1>
- <img src="https://media.giphy.com/media/IbCcsxPmxGzKugAa70/giphy.gif" width="200"; align="center" />
+<p align="center"> <img src="https://media.giphy.com/media/IbCcsxPmxGzKugAa70/giphy.gif" width="200"  /></p>
 
     
 ---
