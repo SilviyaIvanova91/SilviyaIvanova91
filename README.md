@@ -1,9 +1,5 @@
-
-<h1 align="center" >                                                         
-   Hi everyone, I'm Silviya 👋  
-   </h1>
+<h1 align="center" > Hi everyone, I'm Silviya 👋     </h1>
 <p align="center"> <img src="https://media.giphy.com/media/IbCcsxPmxGzKugAa70/giphy.gif" width="250"  /></p>
- 
 ---
 
 ### :woman_technologist: About Me :
