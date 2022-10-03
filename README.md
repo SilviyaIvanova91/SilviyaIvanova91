@@ -1,8 +1,9 @@
 
 <h1 align="center" >                                                         
-   Hi everyone, I'm Silviya 👋                                                                                                                            
+   Hi everyone, I'm Silviya 👋  
+   </h1>
  <img src="https://media.giphy.com/media/IbCcsxPmxGzKugAa70/giphy.gif" width="150" align="center" />
-</h1>
+
     
 ---
 
